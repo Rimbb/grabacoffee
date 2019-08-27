@@ -1,0 +1,32 @@
+{
+  "name": "grabacoffee",
+  "version": "1.0.0",
+  "description": "Keep your command in memory to be executed in one click.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "grabacoffee": "./index.js"
+  },
+  "files": [
+    "*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rimbb/grabacoffee.git"
+  },
+  "author": "Rimbaud Gregoire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rimbb/grabacoffee/issues"
+  },
+  "homepage": "https://github.com/Rimbb/grabacoffee#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "fs": "0.0.1-security",
+    "node-cmd": "^3.0.0",
+    "prompts": "^2.2.1"
+  }
+}
