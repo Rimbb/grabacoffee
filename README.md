@@ -7,6 +7,7 @@ The point is to be able to come back on a project few months later or send it to
 
 V1.0 {
 - *MacOs version pretty much done*
+
 }
 
 
